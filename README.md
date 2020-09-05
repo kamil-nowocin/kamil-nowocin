@@ -3,7 +3,7 @@
 </a>
 </br>
 </br>
-<a href="https://github.com/kamil-nowocin">
+<a href="https://github.com/kamil-nowocin/Test_Automation-automationpractice">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kamil-nowocin&repo=Test_Automation-automationpractice&theme=vue&show_owner" />
 </a>
 <!--
