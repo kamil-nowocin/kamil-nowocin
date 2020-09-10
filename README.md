@@ -6,7 +6,7 @@
 <a href="https://github.com/kamil-nowocin/Test_Automation-automationpractice">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=kamil-nowocin&repo=Test_Automation-automationpractice&theme=vue&show_owner" />
 </a>
-<a href="https://github.com/kamil-nowocin/Test_Automation-automationpractice">
+<a href="https://github.com/kamil-nowocin/JavaScript_rock_paper_scissors">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=kamil-nowocin&repo=JavaScript_rock_paper_scissors&theme=vue&show_owner" />
 </a>
 <!--
